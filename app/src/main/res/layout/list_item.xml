@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal">
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        app:cardCornerRadius="8dp"
+        app:cardElevation="2dp">
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <LinearLayout android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.7"
+                android:orientation="vertical"
+                android:padding="16dp">
+                <TextView
+                    android:id="@+id/prog_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:text="TextView 1"
+                    android:textColor="#e91e63"
+                    android:textSize="24sp"
+                    android:textAllCaps="true"
+                    android:textStyle="bold"/>
+                <TextView
+                    android:id="@+id/trainer_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:text="TextView 1"
+                    android:textColor="#757575"
+                    android:textSize="18sp"
+                    android:textStyle="bold"/>
+                <LinearLayout
+                    android:id="@+id/attrib_intens"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <!--ImageView android:id="@+id/img_intens"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:maxHeight="4dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/sweat_drop_filled"/-->
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/attrib_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                <!--TextView
+                    android:id="@+id/attribute"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:text="TextView 1"
+                    android:textColor="#000"
+                    android:textSize="18sp"
+                    android:background="@drawable/round_corner"/>
+                <ProgressBar
+                    android:id="@+id/progress_view1"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:indeterminate="false"
+                    android:max="5"
+                    android:progress="2"
+                    android:layout_centerVertical="true" /-->
+                </LinearLayout>
+                <com.google.android.flexbox.FlexboxLayout
+                    android:id="@+id/flexbox_layout"
+                    app:flexDirection="row"
+                    app:flexWrap="wrap"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <!--TextView
+                        android:id="@+id/view1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:text="view1"
+                        android:maxLines="1"
+                        android:textColor="#000"
+                        android:textSize="18sp"
+                        android:background="@drawable/round_corner"/-->
+                </com.google.android.flexbox.FlexboxLayout>
+            </LinearLayout>
+            <ImageView android:id="@+id/img_trainer"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.3"
+                android:paddingTop="24dp"
+                android:paddingRight="4dp"
+                android:scaleType="fitStart" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

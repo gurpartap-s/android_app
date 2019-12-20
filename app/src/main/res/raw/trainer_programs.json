@@ -1,0 +1,464 @@
+[
+    {
+        "id": 1,
+        "acronym": "BBG",
+        "code_name": "kayla",
+        "name": "BBG",
+        "image": "https://assets.sweat.com/workout_groups/images/000/000/001/original/bbg-1242x2208593b84bcce1c6835be6cf215d7a01832.png?1542659076",
+        "attributes": [
+            {
+                "id": 1,
+                "code_name": "intensity",
+                "name": "Intensity",
+                "value": "3.0",
+                "total": "5.0"
+            },
+            {
+                "id": 2,
+                "code_name": "weight loss",
+                "name": "Weight Loss",
+                "value": "5.0",
+                "total": "5.0"
+            },
+            {
+                "id": 3,
+                "code_name": "muscle",
+                "name": "Muscle",
+                "value": "3.0",
+                "total": "5.0"
+            },
+            {
+                "id": 4,
+                "code_name": "strength",
+                "name": "Strength",
+                "value": "3.0",
+                "total": "5.0"
+            },
+            {
+                "id": 6,
+                "code_name": "fitness",
+                "name": "Fitness",
+                "value": "5.0",
+                "total": "5.0"
+            }
+        ],
+        "trainer": {
+            "id": 2,
+            "name": "Kayla Itsines",
+            "code_name": "kayla",
+            "image_url": "https://assets.sweat.com/trainers/images/000/000/002/original/BBG_Stronger_3x.png?1521524134"
+        },
+        "tags": [
+            {
+                "id": 129,
+                "name": "Equipment Needed"
+            },
+            {
+                "id": 128,
+                "name": "Outdoors"
+            },
+            {
+                "id": 126,
+                "name": "Home"
+            },
+            {
+                "id": 127,
+                "name": "Gym"
+            },
+            {
+                "id": 130,
+                "name": "28-40 mins"
+            },
+            {
+                "id": 140,
+                "name": "Yoga mat"
+            },
+            {
+                "id": 145,
+                "name": "Medicine ball"
+            },
+            {
+                "id": 150,
+                "name": "Sweat towel"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "code_name": "kayla_stronger",
+        "name": "BBG Stronger",
+        "image": "https://assets.sweat.com/workout_groups/images/000/000/002/original/bbgstrong-1242x220825e488ff693f374c465b29cc9a054238.png?1542659089",
+        "attributes": [
+            {
+                "id": 1,
+                "code_name": "intensity",
+                "name": "Intensity",
+                "value": "2.0",
+                "total": "5.0"
+            },
+            {
+                "id": 2,
+                "code_name": "weight loss",
+                "name": "Weight Loss",
+                "value": "4.5",
+                "total": "5.0"
+            },
+            {
+                "id": 3,
+                "code_name": "muscle",
+                "name": "Muscle",
+                "value": "3.5",
+                "total": "5.0"
+            },
+            {
+                "id": 4,
+                "code_name": "strength",
+                "name": "Strength",
+                "value": "3.5",
+                "total": "5.0"
+            },
+            {
+                "id": 6,
+                "code_name": "fitness",
+                "name": "Fitness",
+                "value": "4.0",
+                "total": "5.0"
+            }
+        ],
+        "trainer": {
+            "id": 2,
+            "name": "Kayla Itsines",
+            "code_name": "kayla",
+            "image_url": "https://assets.sweat.com/trainers/images/000/000/002/original/BBG_Stronger_3x.png?1521524134"
+        },
+        "tags": [
+            {
+                "id": 129,
+                "name": "Equipment Needed"
+            },
+            {
+                "id": 127,
+                "name": "Gym"
+            },
+            {
+                "id": 130,
+                "name": "28-40 mins"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "code_name": "yoga",
+        "name": "Body and Mind",
+        "image": "https://assets.sweat.com/workout_groups/images/000/000/003/original/bam-1242x2208e8a422a719bd8a84d91e84d24edbae54.png?1542659114",
+        "attributes": [
+            {
+                "id": 1,
+                "code_name": "intensity",
+                "name": "Intensity",
+                "value": "1.0",
+                "total": "5.0"
+            },
+            {
+                "id": 5,
+                "code_name": "flexibility",
+                "name": "Flexibility",
+                "value": "5.0",
+                "total": "5.0"
+            },
+            {
+                "id": 6,
+                "code_name": "fitness",
+                "name": "Fitness",
+                "value": "3.0",
+                "total": "5.0"
+            },
+            {
+                "id": 2,
+                "code_name": "weight loss",
+                "name": "Weight Loss",
+                "value": "2.5",
+                "total": "5.0"
+            },
+            {
+                "id": 4,
+                "code_name": "strength",
+                "name": "Strength",
+                "value": "2.5",
+                "total": "5.0"
+            }
+        ],
+        "trainer": {
+            "id": 3,
+            "name": "Sjana Elise",
+            "code_name": "sjana",
+            "image_url": "https://assets.sweat.com/trainers/images/000/000/003/original/Body_and_Mind_3x.png?1521524179"
+        },
+        "tags": [
+            {
+                "id": 128,
+                "name": "Outdoors"
+            },
+            {
+                "id": 126,
+                "name": "Home"
+            },
+            {
+                "id": 130,
+                "name": "28-40 mins"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "code_name": "mum_workouts",
+        "name": "PWR Post-Pregnancy",
+        "image": "https://assets.sweat.com/workout_groups/images/000/000/004/original/pwr-postpreg-1242x22085b9187c29b5d15bd4298b2ac485faf04.png?1542659122",
+        "attributes": [
+            {
+                "id": 1,
+                "code_name": "intensity",
+                "name": "Intensity",
+                "value": "1.0",
+                "total": "5.0"
+            },
+            {
+                "id": 7,
+                "code_name": "post_pregnancy",
+                "name": "Post-Pregnancy",
+                "value": "5.0",
+                "total": "5.0"
+            },
+            {
+                "id": 2,
+                "code_name": "weight loss",
+                "name": "Weight Loss",
+                "value": "3.0",
+                "total": "5.0"
+            },
+            {
+                "id": 4,
+                "code_name": "strength",
+                "name": "Strength",
+                "value": "2.0",
+                "total": "5.0"
+            },
+            {
+                "id": 5,
+                "code_name": "flexibility",
+                "name": "Flexibility",
+                "value": "3.0",
+                "total": "5.0"
+            }
+        ],
+        "trainer": {
+            "id": 4,
+            "name": "Kelsey Wells",
+            "code_name": "kelsey",
+            "image_url": "https://assets.sweat.com/trainers/images/000/000/004/original/PWR_3x.png?1521524161"
+        },
+        "tags": [
+            {
+                "id": 129,
+                "name": "Equipment Needed"
+            },
+            {
+                "id": 126,
+                "name": "Home"
+            },
+            {
+                "id": 130,
+                "name": "28-40 mins"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "code_name": "pwr",
+        "name": "PWR",
+        "image": "https://assets.sweat.com/workout_groups/images/000/000/005/original/pwr-1242x22089547104ddc794fed8de7065742a452ce.png?1542659127",
+        "attributes": [
+            {
+                "id": 1,
+                "code_name": "intensity",
+                "name": "Intensity",
+                "value": "2.0",
+                "total": "5.0"
+            },
+            {
+                "id": 3,
+                "code_name": "muscle",
+                "name": "Muscle",
+                "value": "4.5",
+                "total": "5.0"
+            },
+            {
+                "id": 4,
+                "code_name": "strength",
+                "name": "Strength",
+                "value": "4.0",
+                "total": "5.0"
+            },
+            {
+                "id": 2,
+                "code_name": "weight loss",
+                "name": "Weight Loss",
+                "value": "3.5",
+                "total": "5.0"
+            },
+            {
+                "id": 6,
+                "code_name": "fitness",
+                "name": "Fitness",
+                "value": "3.5",
+                "total": "5.0"
+            }
+        ],
+        "trainer": {
+            "id": 4,
+            "name": "Kelsey Wells",
+            "code_name": "kelsey",
+            "image_url": "https://assets.sweat.com/trainers/images/000/000/004/original/PWR_3x.png?1521524161"
+        },
+        "tags": [
+            {
+                "id": 129,
+                "name": "Equipment Needed"
+            },
+            {
+                "id": 127,
+                "name": "Gym"
+            },
+            {
+                "id": 131,
+                "name": "45-60 mins"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "code_name": "build",
+        "name": "BUILD",
+        "image": "https://assets.sweat.com/workout_groups/images/000/000/007/original/build-1242x220875b2d14afd9dd9de392cdb2a1216b968.png?1542659132",
+        "attributes": [
+            {
+                "id": 1,
+                "code_name": "intensity",
+                "name": "Intensity",
+                "value": "2.0",
+                "total": "5.0"
+            },
+            {
+                "id": 2,
+                "code_name": "weight loss",
+                "name": "Weight Loss",
+                "value": "2.5",
+                "total": "5.0"
+            },
+            {
+                "id": 3,
+                "code_name": "muscle",
+                "name": "Muscle",
+                "value": "5.0",
+                "total": "5.0"
+            },
+            {
+                "id": 6,
+                "code_name": "fitness",
+                "name": "Fitness",
+                "value": "2.0",
+                "total": "5.0"
+            },
+            {
+                "id": 4,
+                "code_name": "strength",
+                "name": "Strength",
+                "value": "5.0",
+                "total": "5.0"
+            }
+        ],
+        "trainer": {
+            "id": 7,
+            "name": "Stephanie Sanzo",
+            "code_name": "stephanie",
+            "image_url": "https://assets.sweat.com/trainers/images/000/000/007/original/steph-1242x2208.png?1542659271"
+        },
+        "tags": [
+            {
+                "id": 129,
+                "name": "Equipment Needed"
+            },
+            {
+                "id": 127,
+                "name": "Gym"
+            },
+            {
+                "id": 131,
+                "name": "45-60 mins"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "code_name": "fierce",
+        "name": "FIERCE",
+        "image": "https://assets.sweat.com/workout_groups/images/000/000/008/original/fierce-1242x220870ff184f8b8621befe1a993eabf8a0a0.png?1542659138",
+        "attributes": [
+            {
+                "id": 1,
+                "code_name": "intensity",
+                "name": "Intensity",
+                "value": "3.0",
+                "total": "5.0"
+            },
+            {
+                "id": 2,
+                "code_name": "weight loss",
+                "name": "Weight Loss",
+                "value": "4.5",
+                "total": "5.0"
+            },
+            {
+                "id": 3,
+                "code_name": "muscle",
+                "name": "Muscle",
+                "value": "4.0",
+                "total": "5.0"
+            },
+            {
+                "id": 4,
+                "code_name": "strength",
+                "name": "Strength",
+                "value": "3.5",
+                "total": "5.0"
+            },
+            {
+                "id": 6,
+                "code_name": "fitness",
+                "name": "Fitness",
+                "value": "4.0",
+                "total": "5.0"
+            }
+        ],
+        "trainer": {
+            "id": 6,
+            "name": "Chontel Duncan",
+            "code_name": "chontel",
+            "image_url": "https://assets.sweat.com/trainers/images/000/000/006/original/Chontel-1242x2208.png?1542659275"
+        },
+        "tags": [
+            {
+                "id": 129,
+                "name": "Equipment Needed"
+            },
+            {
+                "id": 127,
+                "name": "Gym"
+            },
+            {
+                "id": 130,
+                "name": "28-40 mins"
+            }
+        ]
+    }
+]
